@@ -37,6 +37,7 @@ git clone https://github.com/SophieKumagai/leilaoAlex.git
 ### 2. Instale as dependências:
 
 ```bash
+cd leilaoAlex
 npm install
 ```
 
